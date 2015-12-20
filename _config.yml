@@ -1,6 +1,6 @@
 name: blueberry
 favicon: null
-layout_spectrum: 0.1522586087230593
+layout_spectrum: 0
 typography_spectrum: 0.3663601349107921
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#fcfbf6'
+    - '#e9d9ca'
+    - '#5e484b'
+    - '#cba076'
+    - '#99755d'
   brandStrength: 0.32433748128823936
-  lightness: 0.5031379621941596
-  saturation: 0.7493202155455947
-  rhythmicContrast: 0.34320570691488683
+  lightness: 0.6875
+  saturation: 0.875
+  rhythmicContrast: 0
 purpose: []
