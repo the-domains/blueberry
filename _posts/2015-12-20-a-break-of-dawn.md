@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: "don't cut yourself"
-datePublished: '2015-12-20T05:04:52.887Z'
-dateModified: '2015-12-20T05:04:28.666Z'
+datePublished: '2015-12-20T06:11:46.299Z'
+dateModified: '2015-12-20T06:11:41.953Z'
 title: a break of dawn
 author: []
+sourcePath: _posts/2015-12-20-a-break-of-dawn.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-20-a-break-of-dawn.md
-published: true
 url: a-break-of-dawn/index.html
 _type: Article
 
 ---
 # a break of dawn
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/803167da-8544-46b9-aecb-4bfdb11757d7.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c81b6a7f27b7b6d3ce6e72db06df0cd9a2a0e54e.jpg)
 
 # 
 
