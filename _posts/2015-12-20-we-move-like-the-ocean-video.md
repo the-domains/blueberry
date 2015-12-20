@@ -16,8 +16,8 @@ keywords:
   - audio
   - ocean
 description: 'Music video by Bad Suns performing We Move Like The Ocean. (C) 2015 Vagrant '
-datePublished: '2015-12-20T20:23:43.675Z'
-dateModified: '2015-12-20T20:23:37.345Z'
+datePublished: '2015-12-20T20:27:51.251Z'
+dateModified: '2015-12-20T20:27:43.789Z'
 author:
   - name: BadSunsVEVO
     url: 'https://www.youtube.com/user/BadSunsVEVO'
