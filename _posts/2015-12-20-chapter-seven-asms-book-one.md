@@ -6,19 +6,19 @@ isBasedOnUrl: 'http://pharrelldouglas.tumblr.com/'
 inLanguage: null
 starred: false
 keywords: []
-description: 'chapter seven, asms, book one'
-datePublished: '2015-12-20T05:19:15.553Z'
-dateModified: '2015-12-20T05:19:00.059Z'
+description: ''
+datePublished: '2015-12-20T05:37:16.844Z'
+dateModified: '2015-12-20T05:37:12.231Z'
 author: []
 title: ''
+sourcePath: _posts/2015-12-20-chapter-seven-asms-book-one.md
+published: true
 authors: []
 publisher:
   name: pharrelldouglas.tumblr.com
   domain: pharrelldouglas.tumblr.com
   url: null
   favicon: null
-sourcePath: _posts/2015-12-20-chapter-seven-asms-book-one.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
