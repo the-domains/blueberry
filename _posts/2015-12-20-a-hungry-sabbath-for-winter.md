@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "the mystery of life is answered when you don't need to ask"
-datePublished: '2015-12-20T20:02:50.190Z'
-dateModified: '2015-12-20T20:02:45.381Z'
+datePublished: '2015-12-20T20:03:10.181Z'
+dateModified: '2015-12-20T20:03:02.738Z'
 title: a hungry sabbath for winter
 author: []
 sourcePath: _posts/2015-12-20-a-hungry-sabbath-for-winter.md
