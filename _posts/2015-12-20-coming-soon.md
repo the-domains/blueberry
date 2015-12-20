@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-20T08:08:00.021Z'
-dateModified: '2015-12-20T08:07:47.214Z'
+datePublished: '2015-12-20T08:11:49.459Z'
+dateModified: '2015-12-20T08:11:34.595Z'
 title: Coming Soon
 author: []
 sourcePath: _posts/2015-12-20-coming-soon.md
@@ -18,11 +19,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: coming-soon/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Coming Soon
-
-# _**Pain - A Story of Many Songs Book 3**_
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/886823ef4bb470e665d667885fdc5421f5feadb1.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d190187edecc117d47f0b6ccbf18e3368673a8fe.jpg)
