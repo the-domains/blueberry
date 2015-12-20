@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-20T05:53:07.758Z'
-dateModified: '2015-12-20T05:52:47.768Z'
+datePublished: '2015-12-20T06:03:46.181Z'
+dateModified: '2015-12-20T06:03:39.263Z'
 title: spirit bird
 author: []
+sourcePath: _posts/2015-12-20-spirit-bird.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-20-spirit-bird.md
-published: true
 url: spirit-bird/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08aa87bd-ed16-43ff-a761-b7502b1389fa.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bfd0bf41a89c26d5db41a9f3374551f24fb6e33.gif)
 
 # spirit bird
 
