@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-20T20:03:44.191Z'
-dateModified: '2015-12-20T20:03:24.440Z'
+datePublished: '2015-12-20T20:15:38.161Z'
+dateModified: '2015-12-20T20:15:31.195Z'
 title: Coming Soon
 author: []
 sourcePath: _posts/2015-12-20-coming-soon.md
@@ -25,4 +25,4 @@ _type: Blurb
 # Coming Soon
 
 Pain - A Story of Many Songs Book 3
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d190187edecc117d47f0b6ccbf18e3368673a8fe.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bcebdf0ad3bd3f02c27d5a619fb2108fde407aa.jpg)
