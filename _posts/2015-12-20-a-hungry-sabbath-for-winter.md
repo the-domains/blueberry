@@ -5,27 +5,28 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2015-12-20T04:35:17.295Z'
-dateModified: '2015-12-20T04:34:45.775Z'
+description: "the mystery of life is answered when you don't need to ask"
+datePublished: '2015-12-20T04:51:10.321Z'
+dateModified: '2015-12-20T04:51:04.376Z'
 title: a hungry sabbath for winter
 author: []
+sourcePath: _posts/2015-12-20-a-hungry-sabbath-for-winter.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-20-a-hungry-sabbath-for-winter.md
-published: true
 url: a-hungry-sabbath-for-winter/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/682fd703a5aa6140bb51d9148b77f86b8eb40fec.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a399cb44dab1286c1750be8f7fad977e19b9fcc5.gif)
 
-_i was never born to  
-answer questions_
+_i was never born to_
+
+_answer questions _
 
 _i am here to  
 hear my footsteps crunch the snow  
