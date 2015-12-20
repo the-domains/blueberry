@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-20T07:02:37.043Z'
-dateModified: '2015-12-20T07:02:26.168Z'
+datePublished: '2015-12-20T08:08:00.021Z'
+dateModified: '2015-12-20T08:07:47.214Z'
 title: Coming Soon
 author: []
 sourcePath: _posts/2015-12-20-coming-soon.md
@@ -24,5 +24,5 @@ _type: Article
 ---
 # Coming Soon
 
-_Pain - A Story of Many Songs Book 3_
+# _**Pain - A Story of Many Songs Book 3**_
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/886823ef4bb470e665d667885fdc5421f5feadb1.jpg)
