@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-20T07:16:38.979Z'
-dateModified: '2015-12-20T07:16:29.913Z'
+datePublished: '2015-12-20T07:31:23.050Z'
+dateModified: '2015-12-20T07:31:14.644Z'
 title: lighthouse
 author: []
 sourcePath: _posts/2015-12-20-lighthouse.md
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffece928-cbcb-4057-8d1e-7ddbd39d6558.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4e0ddc9916486efa103cd7f84506825093fa51f.jpg)
 
 based on _love filled with LOVE_
 
