@@ -16,8 +16,8 @@ keywords:
   - audio
   - ocean
 description: 'Music video by Bad Suns performing We Move Like The Ocean. (C) 2015 Vagrant '
-datePublished: '2015-12-20T19:44:02.689Z'
-dateModified: '2015-12-20T19:43:07.598Z'
+datePublished: '2015-12-20T20:23:43.675Z'
+dateModified: '2015-12-20T20:23:37.345Z'
 author:
   - name: BadSunsVEVO
     url: 'https://www.youtube.com/user/BadSunsVEVO'
@@ -49,7 +49,7 @@ _context: 'http://schema.org'
 
 ---
 # We Move Like The Ocean - Video
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/79a02d42-21d7-41ba-bc39-7b00aced90fa.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0593512a0c4eb7767d26caebcff6b7b7a081e633.png)
 
 I hope Vagrant Records allows me to use the lyrics of this song by _Bad Suns_ in my novel, _Pain (ASMS Book 3)_. What a dream come true that would be!
 
