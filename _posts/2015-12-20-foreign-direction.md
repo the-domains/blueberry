@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: a story of desperation and violent love
-datePublished: '2015-12-20T04:46:43.626Z'
-dateModified: '2015-12-20T04:46:28.549Z'
+datePublished: '2015-12-20T06:21:12.493Z'
+dateModified: '2015-12-20T06:21:01.818Z'
 author:
   - name: douglaskiba
     url: 'https://www.instagram.com/douglaskiba'
@@ -23,20 +23,20 @@ app_links:
     app_name: Instagram
     package: com.instagram.android
 title: foreign direction
+sourcePath: _posts/2015-12-20-foreign-direction.md
+published: true
 authors: []
 publisher:
   name: Instagram
   domain: www.instagram.com
   url: 'https://www.instagram.com'
   favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/4da1e40/images/ico/favicon.ico'
-sourcePath: _posts/2015-12-20-foreign-direction.md
-published: true
 url: foreign-direction/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d0ccfc2-7966-414c-935f-6ec3c46983f2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/daeafaf86163d6bf27b76c4a253871875898e169.jpg)
 
 find me in the foreign direction 
 
