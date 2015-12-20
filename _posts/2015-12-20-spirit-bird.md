@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-20T06:03:46.181Z'
-dateModified: '2015-12-20T06:03:39.263Z'
+datePublished: '2015-12-20T06:08:45.904Z'
+dateModified: '2015-12-20T06:08:39.181Z'
 title: spirit bird
 author: []
 sourcePath: _posts/2015-12-20-spirit-bird.md
