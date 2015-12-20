@@ -6,19 +6,19 @@ isBasedOnUrl: 'http://pharrelldouglas.tumblr.com/'
 inLanguage: null
 starred: false
 keywords: []
-description: writing oceans
-datePublished: '2015-12-20T05:16:22.478Z'
-dateModified: '2015-12-20T05:16:05.658Z'
+description: ''
+datePublished: '2015-12-20T05:23:09.920Z'
+dateModified: '2015-12-20T05:23:00.289Z'
 author: []
 title: writing oceans
+sourcePath: _posts/2015-12-20-writing-oceans.md
+published: true
 authors: []
 publisher:
   name: pharrelldouglas.tumblr.com
   domain: pharrelldouglas.tumblr.com
   url: null
   favicon: null
-sourcePath: _posts/2015-12-20-writing-oceans.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
