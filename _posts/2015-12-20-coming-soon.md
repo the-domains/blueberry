@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-20T08:14:57.916Z'
-dateModified: '2015-12-20T08:14:35.693Z'
+datePublished: '2015-12-20T20:02:15.445Z'
+dateModified: '2015-12-20T20:02:03.385Z'
 title: Coming Soon
 author: []
 sourcePath: _posts/2015-12-20-coming-soon.md
