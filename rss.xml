@@ -4,7 +4,7 @@
         <description><![CDATA[under the coconut tree]]></description>
         <link>https://thegrid.ai/blueberry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Dec 2015 04:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2015 05:15:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blueberry/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[a hungry sabbath for winter]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Sun, 20 Dec 2015 20:14:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Paramore: Last Hope (LIVE)]]></title>
+            <description><![CDATA[<article><h1>Paramore: Last Hope (LIVE)</h1><p>Paramore's live video for 'Last Hope' from the MONUMENTOUR in Chicago, Illinois on July 11, 2014. The song originally appears on the self-titled album - available now on Fueled By Ramen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f92fd700c09f95712a91bf9402fdd17fa4503b5.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=XoYu7K6Ywkg</link>
+            <guid isPermaLink="false">d4832f2f-d625-40b2-8d97-6de5a51e77af</guid>
+            <pubDate>Sun, 27 Dec 2015 05:15:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kaleidoscope]]></title>
-            <description><![CDATA[<article><h1>Kaleidoscope</h1><p>- a story with a perspective about perspectives</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca184ded-981b-4623-8803-1f3803779565.JPG"></article>]]></description>
+            <description><![CDATA[<article><h1>Kaleidoscope</h1><p>- a story with a perspective about perspectives</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/802dcf48bfa24404a223c381781f6bf716efa994.jpg"></article>]]></description>
             <link>https://thegrid.ai/blueberry/kaleidoscope/index.html</link>
             <guid isPermaLink="false">e5a96b6b-33ad-4c7c-961b-2c44af252a9b</guid>
             <pubDate>Fri, 25 Dec 2015 04:28:23 GMT</pubDate>
@@ -78,13 +85,6 @@ for her amazing artwork on Myla.</p><img src="https://s3-us-west-2.amazonaws.com
             <link>https://thegrid.ai/blueberry/myla-and-sparta/index.html</link>
             <guid isPermaLink="false">4284ea20-18e5-41a0-9fbd-9b410bc259a4</guid>
             <pubDate>Sun, 20 Dec 2015 06:53:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[spirit bird]]></title>
-            <description><![CDATA[<article><h1>spirit bird</h1><p>long nights</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8604422391b2c9803fd99bc435fcb32bb527547.gif"></article>]]></description>
-            <link>https://thegrid.ai/blueberry/spirit-bird/index.html</link>
-            <guid isPermaLink="false">25e14998-8a04-4d4b-9379-6e0cb518a90d</guid>
-            <pubDate>Sun, 20 Dec 2015 06:08:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
