@@ -16,8 +16,8 @@ keywords:
   - glowing
   - official
 description: "Paramore's live video for 'Last Hope' from the MONUMENTOUR in Chicago, Illinois on July 11, 2014. The song originally appears on the self-titled album - available now on Fueled By Ramen."
-datePublished: '2015-12-27T05:50:21.363Z'
-dateModified: '2015-12-27T05:50:08.103Z'
+datePublished: '2015-12-27T05:54:04.482Z'
+dateModified: '2015-12-27T05:53:57.836Z'
 author:
   - name: Fueled By Ramen
     url: 'https://www.youtube.com/user/FueledByRamen'
