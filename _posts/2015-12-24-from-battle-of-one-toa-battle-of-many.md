@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T07:44:49.551Z'
-dateModified: '2015-12-24T07:44:34.895Z'
-title: From Battle of One toA Battle of Many
+datePublished: '2015-12-27T05:29:21.014Z'
+dateModified: '2015-12-27T05:29:15.736Z'
+title: "From Battle of One to\_A Battle of Many"
 author: []
+sourcePath: _posts/2015-12-24-from-battle-of-one-toa-battle-of-many.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-24-from-battle-of-one-toa-battle-of-many.md
-published: true
 url: from-battle-of-one-toa-battle-of-many/index.html
 _type: Article
 
 ---
-# From Battle of One to_A Battle of Many_
+# From Battle of One to _A Battle of Many_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/526240eb-e25a-4899-b766-ab5232c45486.JPG)
 
 __
