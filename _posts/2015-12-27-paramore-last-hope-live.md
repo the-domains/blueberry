@@ -16,8 +16,8 @@ keywords:
   - glowing
   - official
 description: "Paramore's live video for 'Last Hope' from the MONUMENTOUR in Chicago, Illinois on July 11, 2014. The song originally appears on the self-titled album - available now on Fueled By Ramen."
-datePublished: '2015-12-27T05:55:32.963Z'
-dateModified: '2015-12-27T05:55:13.377Z'
+datePublished: '2015-12-27T06:29:54.289Z'
+dateModified: '2015-12-27T06:27:26.718Z'
 author:
   - name: Fueled By Ramen
     url: 'https://www.youtube.com/user/FueledByRamen'
@@ -50,7 +50,9 @@ _context: 'http://schema.org'
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FXoYu7K6Ywkg%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXoYu7K6Ywkg&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXoYu7K6Ywkg%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
 
-**Paramore**has been a huge inspiration for_A Story of Many Songs_. Watching this song, brought the story and the characters back to me.
+****
+
+**Paramore **has been a huge inspiration for_A Story of Many Songs_. Watching this song, brought the story and the characters back to me.
 
 Hayley Williams's sweet voice & high energy attitude, embodies the character of Sherri in the books! 
 
