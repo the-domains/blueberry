@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-28T03:35:32.359Z'
-dateModified: '2015-12-28T03:35:25.888Z'
+datePublished: '2015-12-28T08:00:55.014Z'
+dateModified: '2015-12-28T08:00:49.916Z'
 author: []
 related: []
 app_links: []
@@ -30,4 +30,14 @@ _type: MediaObject
 
 _A day to escape_
 
-Book 2: Loss
+**Book 2: Loss**
+
+... The car accelerates along the track and I interlock my fingers with Xena.
+
+I hope she's somewhere less violent right now.
+
+The closer we get to the dome and to that space ship, the better it will be for all of us ... 
+
+[Read the Story..][0]
+
+[0]: https://www.goodreads.com/book/show/26172380-a-story-of-many-songs
