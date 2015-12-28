@@ -4,8 +4,15 @@
         <description><![CDATA[under the coconut tree]]></description>
         <link>https://thegrid.ai/blueberry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 06:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2015 06:39:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blueberry/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[how long?]]></title>
+            <description><![CDATA[<article><h1>how long?</h1><p>... feet become heavy</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5254b2e06bd5c9a938f24bfd94dc77c2de3d60fa.jpg"></article>]]></description>
+            <link>https://thegrid.ai/blueberry/how-long/index.html</link>
+            <guid isPermaLink="false">42deb51a-786a-421d-8518-f61dbe4229b9</guid>
+            <pubDate>Mon, 28 Dec 2015 06:39:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[caged bear]]></title>
             <description><![CDATA[<article><h1>caged bear</h1><p>caged bear can't go home</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86b827bddd61f42a57f27563160989b2758b299f.jpg"></article>]]></description>
@@ -68,23 +75,6 @@
             <link>https://thegrid.ai/blueberry/myla-and-rhiannon/index.html</link>
             <guid isPermaLink="false">2c911624-b74c-43d3-a50f-ecfc605109b4</guid>
             <pubDate>Sun, 20 Dec 2015 07:13:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Myla & Sparta]]></title>
-            <description><![CDATA[<article><h1>Myla & Sparta</h1><p>Kudos to
-Mika
-
-
-
--
-
-
-
-Kaleidoscopic_ -
-for her amazing artwork on Myla.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef5078a9b9f28c2fa4c20cf4208bc3918aa9513d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/blueberry/myla-and-sparta/index.html</link>
-            <guid isPermaLink="false">4284ea20-18e5-41a0-9fbd-9b410bc259a4</guid>
-            <pubDate>Sun, 20 Dec 2015 06:53:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
