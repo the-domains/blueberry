@@ -6,24 +6,24 @@ inLanguage: null
 starred: true
 keywords: []
 description: "life's perfect form"
-datePublished: '2015-12-28T06:45:00.290Z'
-dateModified: '2015-12-28T06:44:53.562Z'
+datePublished: '2015-12-28T06:48:08.140Z'
+dateModified: '2015-12-28T06:48:03.870Z'
 title: a hungry rest
 author: []
+sourcePath: _posts/2015-12-28-a-hungry-rest.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-28-a-hungry-rest.md
-published: true
 url: a-hungry-rest/index.html
 _type: Article
 
 ---
 # a hungry rest
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6283470d-983a-489e-8b94-2310b65cc2e1.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f458732de2635ae459358f188ef7c61112ee1d89.gif)
 
 _i was never born to  
 answer questions  
