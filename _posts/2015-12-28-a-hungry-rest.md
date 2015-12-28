@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "life's perfect form"
-datePublished: '2015-12-28T06:48:08.140Z'
-dateModified: '2015-12-28T06:48:03.870Z'
+datePublished: '2015-12-28T07:08:53.143Z'
+dateModified: '2015-12-28T07:08:44.794Z'
 title: a hungry rest
 author: []
 sourcePath: _posts/2015-12-28-a-hungry-rest.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # a hungry rest
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f458732de2635ae459358f188ef7c61112ee1d89.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/485f676f-dfe2-45fa-8b39-6d05e3535b1c.gif)
 
 _i was never born to  
 answer questions  
