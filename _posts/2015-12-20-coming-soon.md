@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-28T05:53:16.119Z'
-dateModified: '2015-12-28T05:53:05.164Z'
+datePublished: '2015-12-28T05:57:59.424Z'
+dateModified: '2015-12-28T05:57:48.901Z'
 title: Coming Soon
 author: []
 sourcePath: _posts/2015-12-20-coming-soon.md
@@ -26,3 +26,7 @@ _type: Blurb
 
 Pain - A Story of Many Songs Book 3
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8acb73f4a322a344f9e478432a80bd9c4f37132.jpg)
+
+> into the blizzard
+
+it needs work but we're getting there :-)
