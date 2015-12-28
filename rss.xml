@@ -4,14 +4,21 @@
         <description><![CDATA[under the coconut tree]]></description>
         <link>https://thegrid.ai/blueberry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 07:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2015 07:44:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blueberry/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[a hungry rest]]></title>
-            <description><![CDATA[<article><h1>a hungry rest</h1><p>i was never born toanswer questionsi am here tohear my footsteps crunch the snowas my toes cringeto the coldlike icy water in my shoes- and that is not a question</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/efad8cf014bc21bcac1c01597c4d22744c6ac9d1.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>a hungry rest</h1><p>i was never born toanswer questionsi am here tohear my footsteps crunch the snowas my toes cringeto the coldlike icy water in my shoes- and that is not a question</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad8dfcc0d9f958afcfb87aa56f6e2446957ab4e0.gif"></article>]]></description>
             <link>https://thegrid.ai/blueberry/a-hungry-rest/index.html</link>
             <guid isPermaLink="false">f3997c2d-f7ac-4d10-b52a-9b13dbd7b554</guid>
             <pubDate>Mon, 28 Dec 2015 07:08:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[love filled with LOVE]]></title>
+            <description><![CDATA[<article><h1>love filled with LOVE</h1><p>can i love you out of joy</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c38b2c596b8e758adbdbce212e7aade98d9905a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/blueberry/love-filled-with-love/index.html</link>
+            <guid isPermaLink="false">71b8c02b-8e29-4561-8977-05aa7f88b5bf</guid>
+            <pubDate>Mon, 28 Dec 2015 07:44:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[how long?]]></title>
@@ -43,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[Photo by Logan Stephens | Unsplash]]></title>
-            <description><![CDATA[<article><h1>Photo by Logan Stephens | Unsplash</h1><p>I am always fascinated by trains.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d661e49fc0e090e0052d385fd1beea5d71b3c5b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Photo by Logan Stephens | Unsplash</h1><p>I am always fascinated by trains.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fe93dad9c1c978cbebe20f641da07bd4ebca873.jpg"></article>]]></description>
             <link>https://unsplash.com/photos/QqerMOz6DnE</link>
             <guid isPermaLink="false">660b4579-592b-4c1c-80fc-5f8749a680da</guid>
             <pubDate>Sun, 27 Dec 2015 06:11:07 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/blueberry/the-face-of-myla/index.html</link>
             <guid isPermaLink="false">500cde28-7fad-4e0e-93f8-6f735635b6c6</guid>
             <pubDate>Sun, 20 Dec 2015 07:59:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Myla & Rhiannon]]></title>
-            <description><![CDATA[<article><h1>Myla & Rhiannon</h1><p>Without a doubt Rhiannon is already my favorite character in the series.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6412dc88bbbc3f654216dce4a54c04cb32bd1680.jpg"></article>]]></description>
-            <link>https://thegrid.ai/blueberry/myla-and-rhiannon/index.html</link>
-            <guid isPermaLink="false">2c911624-b74c-43d3-a50f-ecfc605109b4</guid>
-            <pubDate>Sun, 20 Dec 2015 07:13:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
