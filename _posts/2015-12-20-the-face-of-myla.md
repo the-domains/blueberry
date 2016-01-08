@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-08T04:53:26.261Z'
-dateModified: '2016-01-08T04:53:13.063Z'
+datePublished: '2016-01-08T19:33:47.979Z'
+dateModified: '2016-01-08T19:33:38.192Z'
 title: The face of Myla?
 author: []
 sourcePath: _posts/2015-12-20-the-face-of-myla.md
