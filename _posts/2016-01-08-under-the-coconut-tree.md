@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-08T04:03:38.779Z'
-dateModified: '2016-01-08T04:03:13.531Z'
+datePublished: '2016-01-08T04:09:08.002Z'
+dateModified: '2016-01-08T04:09:00.836Z'
 title: Under the coconut tree
 author: []
+sourcePath: _posts/2016-01-08-under-the-coconut-tree.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-08-under-the-coconut-tree.md
-published: true
 url: under-the-coconut-tree/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/358474d3-1cfa-4fe1-8f61-eb425684c664.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/facdd6c33fa1bcd8bddb3e42a3db7ab8844e620a.jpg)
 
 # **Under the coconut tree**
 
