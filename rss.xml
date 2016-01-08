@@ -4,7 +4,7 @@
         <description><![CDATA[under the coconut tree]]></description>
         <link>https://thegrid.ai/blueberry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 01:01:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2016 04:03:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blueberry/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[a hungry rest]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Mon, 28 Dec 2015 07:08:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Under the coconut tree]]></title>
+            <description><![CDATA[<article><h1>Under the coconut tree</h1><p>You see the ocean come close</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/facdd6c33fa1bcd8bddb3e42a3db7ab8844e620a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/blueberry/under-the-coconut-tree/index.html</link>
+            <guid isPermaLink="false">ab6d2ee3-b846-4f6e-b60d-340081528d20</guid>
+            <pubDate>Fri, 08 Jan 2016 04:03:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Got this #badboy from the #PObox #postoffice I won a #giveaway and got this #book and it's all the way from #Canada! Thank you @douglaskiba ! I'll be #reading this ASAP! The book cover is just so spectacularly #beautiful! #AStoryOfManySongs #love #PharellDouglas Till next time! #gratitude #happykid]]></title>
-            <description><![CDATA[<article><h1>Got this #badboy from the #PObox #postoffice I won a #giveaway and got this #book and it's all the way from #Canada! Thank you @douglaskiba ! I'll be #reading this ASAP! The book cover is just so spectacularly #beautiful! #AStoryOfManySongs #love #PharellDouglas Till next time! #gratitude #happykid</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c7131d2987f404ed05dc57b11f17ed6c521fc4e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Got this #badboy from the #PObox #postoffice I won a #giveaway and got this #book and it's all the way from #Canada! Thank you @douglaskiba ! I'll be #reading this ASAP! The book cover is just so spectacularly #beautiful! #AStoryOfManySongs #love #PharellDouglas Till next time! #gratitude #happykid</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76f34396300eea4d95eaa8b5071e94a66262c042.jpg"></article>]]></description>
             <link>https://www.instagram.com/p/BAMJ2EJqCJD/?taken-by=papapatriceeeee</link>
             <guid isPermaLink="false">a2990ccc-b5be-4382-af64-a23ed4492c88</guid>
             <pubDate>Fri, 08 Jan 2016 01:00:05 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://unsplash.com/photos/QqerMOz6DnE</link>
             <guid isPermaLink="false">660b4579-592b-4c1c-80fc-5f8749a680da</guid>
             <pubDate>Sun, 27 Dec 2015 06:11:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oceans]]></title>
-            <description><![CDATA[<article><h1>Oceans</h1><p>About the vastness.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec4d7bb60d61f5aaa9de83ca717c6263f859e0fc.jpg"></article>]]></description>
-            <link>https://thegrid.ai/blueberry/oceans/index.html</link>
-            <guid isPermaLink="false">cd9fc95f-c2c0-4a86-a9bd-2ab0efe896f4</guid>
-            <pubDate>Sun, 27 Dec 2015 05:43:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
