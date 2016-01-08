@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-08T04:09:08.002Z'
-dateModified: '2016-01-08T04:09:00.836Z'
+datePublished: '2016-01-08T04:12:05.129Z'
+dateModified: '2016-01-08T04:12:00.288Z'
 title: Under the coconut tree
 author: []
 sourcePath: _posts/2016-01-08-under-the-coconut-tree.md
@@ -36,7 +36,9 @@ To the sky
 
 To drink that coconut milk
 
-# It splashes down your throat
+**__**
+
+**_It splashes down your throat_**
 
 And the sun
 
@@ -46,7 +48,9 @@ Until you're sweet
 
 As a cake
 
-# You found shelter
+_****_
+
+_**You found shelter**_
 
 Hope is abound
 
