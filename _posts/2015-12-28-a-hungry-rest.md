@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "life's perfect form"
-datePublished: '2015-12-28T07:08:53.143Z'
-dateModified: '2015-12-28T07:08:44.794Z'
+datePublished: '2016-01-08T04:37:34.891Z'
+dateModified: '2016-01-08T04:37:25.870Z'
 title: a hungry rest
 author: []
 sourcePath: _posts/2015-12-28-a-hungry-rest.md
