@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "life's perfect form"
-datePublished: '2016-01-08T04:40:00.752Z'
-dateModified: '2016-01-08T04:39:53.856Z'
+datePublished: '2016-01-08T04:55:18.733Z'
+dateModified: '2016-01-08T04:55:13.326Z'
 title: a hungry rest
 author: []
 sourcePath: _posts/2015-12-28-a-hungry-rest.md
@@ -23,7 +23,9 @@ _type: Article
 
 ---
 # a hungry rest
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/485f676f-dfe2-45fa-8b39-6d05e3535b1c.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c245b3b6-d97d-44ed-bee9-57892ee498d8.gif)
+
+__
 
 _i was never born to  
 answer questions  
@@ -61,5 +63,5 @@ without a question_
 _for it is God  
 who made me_
 
-**a hungry sabbath for winter  
+**originally titled: a hungry sabbath for winter  
 pharrell douglas**
