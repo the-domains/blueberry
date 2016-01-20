@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-20T06:08:45.904Z'
-dateModified: '2015-12-20T06:08:39.181Z'
+datePublished: '2016-01-20T04:11:49.393Z'
+dateModified: '2016-01-20T04:11:41.819Z'
 title: spirit bird
 author: []
 sourcePath: _posts/2015-12-20-spirit-bird.md
@@ -22,7 +22,7 @@ url: spirit-bird/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bfd0bf41a89c26d5db41a9f3374551f24fb6e33.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8604422391b2c9803fd99bc435fcb32bb527547.gif)
 
 # spirit bird
 
