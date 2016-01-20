@@ -4,14 +4,21 @@
         <description><![CDATA[under the coconut tree]]></description>
         <link>https://thegrid.ai/blueberry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 19:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 04:11:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blueberry/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[a hungry rest]]></title>
-            <description><![CDATA[<article><h1>a hungry rest</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90212db13013271e1277fc0dedf275ba8babfe44.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>a hungry rest</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51d25475fcf65b7693cc0c6cbee9a4544661b97c.gif"></article>]]></description>
             <link>https://thegrid.ai/blueberry/a-hungry-rest/index.html</link>
             <guid isPermaLink="false">f3997c2d-f7ac-4d10-b52a-9b13dbd7b554</guid>
             <pubDate>Fri, 08 Jan 2016 19:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[spirit bird]]></title>
+            <description><![CDATA[<article><h1>spirit bird</h1><p>long nights</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8604422391b2c9803fd99bc435fcb32bb527547.gif"></article>]]></description>
+            <link>https://thegrid.ai/blueberry/spirit-bird/index.html</link>
+            <guid isPermaLink="false">25e14998-8a04-4d4b-9379-6e0cb518a90d</guid>
+            <pubDate>Wed, 20 Jan 2016 04:11:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The face of Myla?]]></title>
@@ -68,13 +75,6 @@
             <link>https://unsplash.com/photos/LQiXb7dA4Dk</link>
             <guid isPermaLink="false">29e35ecd-ad2c-4f43-a2a7-fc6a44bd0621</guid>
             <pubDate>Mon, 28 Dec 2015 08:00:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paramore: Last Hope (LIVE)]]></title>
-            <description><![CDATA[<article><h1>Paramore: Last Hope (LIVE)</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f92fd700c09f95712a91bf9402fdd17fa4503b5.jpg"></article>]]></description>
-            <link>https://thegrid.ai/blueberry/paramore-last-hope-live/index.html</link>
-            <guid isPermaLink="false">d4832f2f-d625-40b2-8d97-6de5a51e77af</guid>
-            <pubDate>Mon, 28 Dec 2015 05:58:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
