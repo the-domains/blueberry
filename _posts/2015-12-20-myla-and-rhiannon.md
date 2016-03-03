@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-20T07:13:20.451Z'
-dateModified: '2015-12-20T07:13:02.271Z'
+datePublished: '2016-03-03T21:15:16.836Z'
+dateModified: '2016-03-03T21:15:11.650Z'
 title: 'Myla & Rhiannon'
 author: []
+sourcePath: _posts/2015-12-20-myla-and-rhiannon.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-20-myla-and-rhiannon.md
-published: true
 url: myla-and-rhiannon/index.html
 _type: Article
 
