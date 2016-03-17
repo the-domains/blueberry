@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: What you sing about
-datePublished: '2016-03-17T15:44:28.150Z'
-dateModified: '2016-03-17T15:44:14.893Z'
+datePublished: '2016-03-17T15:55:50.885Z'
+dateModified: '2016-03-17T15:54:27.166Z'
 title: "Child of Earth (A President's Rap Song)"
 author: []
 authors: []
@@ -23,9 +23,7 @@ _type: Article
 
 ---
 # Child of Earth (A President's Rap Song)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/467c1008-d119-4085-be69-a4c28a09867a.jpg)
-
-## 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8bc6743-662f-490e-8772-bf42e80bbf87.jpg)
 
 ## Featured in Those People (magazine)!
 
@@ -34,8 +32,6 @@ _type: Article
 **What you sing about**
 
 **when you become president?**
-
-__
 
 _Will you pimp a butterfly?_
 
@@ -66,8 +62,6 @@ _Back to back with Mr. Blac Youngsta_
 _James Blake, you know how it goes_
 
 **_What song you sing about when you become president?_**
-
-**__**
 
 [Read the full rap song and story here on Those People][0]
 
