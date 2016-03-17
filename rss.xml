@@ -4,8 +4,16 @@
         <description><![CDATA[under the coconut tree]]></description>
         <link>https://thegrid.ai/blueberry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 21:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 15:09:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blueberry/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[reggae songs]]></title>
+            <description><![CDATA[<article><h1>reggae songs</h1><p>…wanna love you
+with reggae songs…</p></article>]]></description>
+            <link>https://thegrid.ai/blueberry/reggae-songs/index.html</link>
+            <guid isPermaLink="false">2e1b4b4d-72c3-44da-85cb-57158987cf35</guid>
+            <pubDate>Thu, 17 Mar 2016 15:08:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[a hungry rest]]></title>
             <description><![CDATA[<article><h1>a hungry rest</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51d25475fcf65b7693cc0c6cbee9a4544661b97c.gif"></article>]]></description>
@@ -15,7 +23,7 @@
         </item>
         <item>
             <title><![CDATA[Myla & Rhiannon]]></title>
-            <description><![CDATA[<article><h1>Myla & Rhiannon</h1><p>Without a doubt Rhiannon is already my favorite character in the series.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b02e5591b9c61d311983fa8caf819b5ea1d051e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Myla & Rhiannon</h1><p>Without a doubt Rhiannon is already my favorite character in the series.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6412dc88bbbc3f654216dce4a54c04cb32bd1680.jpg"></article>]]></description>
             <link>https://thegrid.ai/blueberry/myla-and-rhiannon/index.html</link>
             <guid isPermaLink="false">2c911624-b74c-43d3-a50f-ecfc605109b4</guid>
             <pubDate>Thu, 03 Mar 2016 21:15:16 GMT</pubDate>
@@ -68,13 +76,6 @@
             <link>https://thegrid.ai/blueberry/caged-bear/index.html</link>
             <guid isPermaLink="false">31ed2daf-2dcc-432d-9f19-7ff7f761ffdb</guid>
             <pubDate>Mon, 28 Dec 2015 06:38:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Story of Many Songs]]></title>
-            <description><![CDATA[<article><h1>A Story of Many Songs</h1><p>A day to escape</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7946f9a2718d05c48941a93ee09acf003ffc1834.jpg"></article>]]></description>
-            <link>https://unsplash.com/photos/LQiXb7dA4Dk</link>
-            <guid isPermaLink="false">29e35ecd-ad2c-4f43-a2a7-fc6a44bd0621</guid>
-            <pubDate>Mon, 28 Dec 2015 08:00:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
