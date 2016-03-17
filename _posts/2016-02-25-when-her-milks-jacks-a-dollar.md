@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-25T01:53:11.135Z'
-dateModified: '2016-02-25T01:51:03.838Z'
+datePublished: '2016-03-17T16:39:25.099Z'
+dateModified: '2016-02-25T01:53:15.446Z'
 title: when her milks jacks a dollar
 author: []
 authors: []
@@ -39,6 +39,8 @@ _nor come to match, his own _
 
 _he who sits before the blue TV_
 
-[Read the full_when her milk jacks a dollar_story here][0]
+__
+
+[Read the full _when her milk jacks a dollar _story here][0]
 
 [0]: https://medium.com/@douglaskiba/when-her-milk-jacks-a-dollar-3c41680392f4#.imtnnby66
