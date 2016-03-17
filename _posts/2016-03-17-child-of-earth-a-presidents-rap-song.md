@@ -1,70 +1,31 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://thsppl.com/child-of-earth-a-president-s-rap-song-f6f888c9b99e#.1jajvcm96'
-inLanguage: en
+inLanguage: null
 starred: false
-keywords:
-  - nigga
-  - ashley
-  - superpredators
-  - hillary
-  - shit
-  - earth
-  - keisha
-  - black
-  - sing
-  - child
-description: undefined
-datePublished: '2016-03-17T15:25:46.690Z'
-dateModified: '2016-03-17T15:21:17.020Z'
-author:
-  - name: Pharrell Douglas
-    url: 'https://medium.com/@douglaskiba'
-    avatar: {}
-related: []
-app_links:
-  - type: android
-    namespace: ai
-    app_name: Medium
-    app_store_id: '828256236'
-    package: com.medium.reader
-  - url: 'medium://p/f6f888c9b99e'
-    type: ios
-    namespace: ai
-    app_name: Medium
-  - url: 'medium://p/f6f888c9b99e'
-    type: android
-    namespace: ai
-  - url: 'https://thsppl.com/child-of-earth-a-president-s-rap-song-f6f888c9b99e'
-    type: web
-    namespace: ai
-  - url: 'medium://p/f6f888c9b99e'
-    namespace: twitter
-    type: iphone
-    name: Medium
-    id: '828256236'
-  - path: https/medium.com/p/f6f888c9b99e
-    package: com.medium.reader
-    namespace: google
-    type: android
+keywords: []
+description: What you sing about
+datePublished: '2016-03-17T15:44:28.150Z'
+dateModified: '2016-03-17T15:44:14.893Z'
 title: "Child of Earth (A President's Rap Song)"
-sourcePath: _posts/2016-03-17-child-of-earth-a-presidents-rap-song.md
-published: true
+author: []
 authors: []
 publisher:
-  name: Medium
-  domain: thsppl.com
-  url: 'https://medium.com'
-  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
-_context: 'http://schema.org'
-_type: MediaObject
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-03-17-child-of-earth-a-presidents-rap-song.md
+published: true
+url: child-of-earth-a-presidents-rap-song/index.html
+_type: Article
 
 ---
 # Child of Earth (A President's Rap Song)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/467c1008-d119-4085-be69-a4c28a09867a.jpg)
 
-<article style=""><h1>Child of Earth (A President's Rap Song) - THOSE PEOPLE</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2423e74b22decd50176689e0529aed47285bc7d0.jpg" /></article>
+## 
 
 ## Featured in Those People (magazine)!
 
@@ -73,6 +34,8 @@ _type: MediaObject
 **What you sing about**
 
 **when you become president?**
+
+__
 
 _Will you pimp a butterfly?_
 
@@ -86,7 +49,7 @@ _Will you put a chain around a nigga_
 
 _and tell him he will be okay? (Donald Williams Jr.)_
 
-_Will __you hold up Keisha in a stretch?_
+_Will__you hold up Keisha in a stretch?_
 
 _Your hand conveniently behind her head_
 
@@ -103,6 +66,8 @@ _Back to back with Mr. Blac Youngsta_
 _James Blake, you know how it goes_
 
 **_What song you sing about when you become president?_**
+
+**__**
 
 [Read the full rap song and story here on Those People][0]
 
