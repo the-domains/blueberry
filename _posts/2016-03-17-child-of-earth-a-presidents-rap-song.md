@@ -17,8 +17,8 @@ keywords:
   - sing
   - child
 description: undefined
-datePublished: '2016-03-17T15:21:12.712Z'
-dateModified: '2016-03-17T15:20:20.220Z'
+datePublished: '2016-03-17T15:25:46.690Z'
+dateModified: '2016-03-17T15:21:17.020Z'
 author:
   - name: Pharrell Douglas
     url: 'https://medium.com/@douglaskiba'
@@ -50,14 +50,14 @@ app_links:
     namespace: google
     type: android
 title: "Child of Earth (A President's Rap Song)"
+sourcePath: _posts/2016-03-17-child-of-earth-a-presidents-rap-song.md
+published: true
 authors: []
 publisher:
   name: Medium
   domain: thsppl.com
   url: 'https://medium.com'
   favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
-sourcePath: _posts/2016-03-17-child-of-earth-a-presidents-rap-song.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
