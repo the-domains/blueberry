@@ -8,18 +8,18 @@ keywords: []
 description: |-
   …wanna love you
   with reggae songs…
-datePublished: '2016-03-17T15:08:58.994Z'
-dateModified: '2016-03-17T15:08:29.209Z'
+datePublished: '2016-03-17T15:21:47.280Z'
+dateModified: '2016-03-17T15:09:06.247Z'
 title: reggae songs
 author: []
+sourcePath: _posts/2016-03-17-reggae-songs.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-reggae-songs.md
-published: true
 url: reggae-songs/index.html
 _type: Article
 
@@ -63,8 +63,6 @@ caress my avocado-washed dreads...
 > OK, so there's this girl ... and reggae song is about this girl who I was thinking about while listening to reggae songs. And she makes me want to have watermelon juice with her. 
 
 _I like it when she touches my dreadlocks._
-
-## 
 
 ## News: an upcoming short story collection!
 
