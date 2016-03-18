@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: "life's perfect form"
-datePublished: '2016-01-08T19:34:57.721Z'
-dateModified: '2016-01-08T19:34:53.165Z'
+description: i was never born toanswer questionsi am here tohear my footsteps crunch the snowas my toes cringeto the coldlike icy water in my shoes- and that is not a question
+datePublished: '2016-03-18T05:11:50.625Z'
+dateModified: '2016-03-17T15:52:51.506Z'
 title: a hungry rest
 author: []
 sourcePath: _posts/2015-12-28-a-hungry-rest.md
