@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-15T05:40:45.443Z'
-dateModified: '2016-04-15T05:40:30.991Z'
+datePublished: '2016-04-15T05:42:00.405Z'
+dateModified: '2016-04-15T05:40:52.483Z'
 title: A song of ice and fire
 author: []
 sourcePath: _posts/2016-04-15-a-song-of-ice-and-fire.md
@@ -26,8 +26,6 @@ _type: Article
 
 # A song of ice and fire
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27acf7f0-492b-459f-b0ab-362199eb4a4a.png)
-
-#### 
 
 #### The thing ice and fire have in common: they don't discriminate. You can be rich, poor, good or greedy, but a cold winter's day will be a cold winter's day. The wind won't ask for no resume. It will go ahead and bite right through you.
 
