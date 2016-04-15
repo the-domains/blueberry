@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-08T19:33:47.979Z'
-dateModified: '2016-01-08T19:33:38.192Z'
+description: "While searching for the right image for the cover of ASMS Book 2 \_I was lucky enough to come across this photo by Demi Deherrera on Unsplash.com.\_"
+datePublished: '2016-04-15T05:19:54.607Z'
+dateModified: '2016-04-15T05:16:19.567Z'
 title: The face of Myla?
 author: []
 sourcePath: _posts/2015-12-20-the-face-of-myla.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # The face of Myla?
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/04f9d78b9941a52ce66ba12f4de5c3f0edd363ed.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2dacec4dcc8bf2573fe6062655af8e08a529d00.jpg)
 
 While searching for the right image for the cover of _ASMS Book 2_ I was lucky enough to come across this photo by Demi Deherrera on [Unsplash.com][0]. 
 
