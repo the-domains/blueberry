@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-15T05:05:20.500Z'
-dateModified: '2016-04-15T05:04:41.918Z'
+datePublished: '2016-04-15T05:13:42.929Z'
+dateModified: '2016-04-15T05:13:29.412Z'
 title: A song of ice and fire
 author: []
+sourcePath: _posts/2016-04-15-a-song-of-ice-and-fire.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-a-song-of-ice-and-fire.md
-published: true
 url: a-song-of-ice-and-fire/index.html
 _type: Article
 
