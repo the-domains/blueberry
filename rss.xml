@@ -4,8 +4,15 @@
         <description><![CDATA[under the coconut tree]]></description>
         <link>https://thegrid.ai/blueberry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 04:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 04:20:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blueberry/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[3 Books. 1 click.]]></title>
+            <description><![CDATA[<article><h1>3 Books. 1 click.</h1><p>Get these 3 FREE books from Pharrell Douglas. Click here to get the new Bundle!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cca92053-e585-4d6e-a4a5-a4ac9d33b95a.png"></article>]]></description>
+            <link>https://thegrid.ai/blueberry/3-books-1-click/index.html</link>
+            <guid isPermaLink="false">d545a90d-9ea3-4ff9-8cec-5a171bc86d72</guid>
+            <pubDate>Fri, 15 Apr 2016 04:20:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[reggae songs]]></title>
             <description><![CDATA[<article><h1>reggae songs</h1><p>…wanna love you
@@ -69,13 +76,6 @@ with reggae songs…</p></article>]]></description>
             <link>https://www.instagram.com/p/BAMJ2EJqCJD/?taken-by=papapatriceeeee</link>
             <guid isPermaLink="false">a2990ccc-b5be-4382-af64-a23ed4492c88</guid>
             <pubDate>Fri, 08 Jan 2016 04:27:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Under the coconut tree]]></title>
-            <description><![CDATA[<article><h1>Under the coconut tree</h1><p>You see the ocean come close</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68e9555e9a40d401aaa12c6160e1d0e2ee8d2d5e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/blueberry/under-the-coconut-tree/index.html</link>
-            <guid isPermaLink="false">ab6d2ee3-b846-4f6e-b60d-340081528d20</guid>
-            <pubDate>Fri, 08 Jan 2016 04:12:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
