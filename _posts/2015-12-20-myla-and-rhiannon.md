@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-15T05:20:27.147Z'
-dateModified: '2016-03-03T21:15:24.471Z'
+description: Without a doubt Rhiannon is already my favorite character in the series.
+datePublished: '2016-04-15T05:20:52.004Z'
+dateModified: '2016-04-15T05:20:37.344Z'
 title: 'Myla & Rhiannon'
 author: []
 sourcePath: _posts/2015-12-20-myla-and-rhiannon.md
