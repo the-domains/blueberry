@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-15T04:10:04.335Z'
-dateModified: '2016-04-15T04:09:40.535Z'
+datePublished: '2016-04-15T05:44:08.906Z'
+dateModified: '2016-04-15T05:43:46.611Z'
 author:
   - name: Alex Amoling
     url: 'http://vimeo.com/alexamoling'
@@ -41,14 +41,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: Colette Robbins
+sourcePath: _posts/2016-04-15-colette-robbins.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-04-15-colette-robbins.md
-published: true
 url: colette-robbins/index.html
 _type: VideoObject
 _context: 'http://schema.org'
