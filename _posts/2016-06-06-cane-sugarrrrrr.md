@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'My Cane Sugar, as seen above, checking herself out.'
-datePublished: '2016-06-06T03:03:55.494Z'
-dateModified: '2016-06-06T03:03:30.566Z'
+datePublished: '2016-06-06T03:40:21.103Z'
+dateModified: '2016-06-06T03:04:07.547Z'
 title: CANE SUGARRRRRR
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-06-06-cane-sugarrrrrr.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-06-06-cane-sugarrrrrr.md
+starred: true
 url: cane-sugarrrrrr/index.html
 _type: Article
 
@@ -83,7 +83,6 @@ the curves and the bones
 and sweet kiss ya
 
 Look at my eyes, stubborn-ass girl, when I reach ya
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/475628bf-3399-4416-978f-13e1c8de7e2c.png)
 
 We got so far off the ground
@@ -137,7 +136,6 @@ High in the morning like sweet sweet
 You know I've been telling all my boys
 
 You just so sweet sweet
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b945c771-7e00-442d-a786-567989b12f72.png)
 
 You got that coconut from the highest tree
