@@ -5,16 +5,17 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'My Cane Sugar, as seen above, checking herself out.'
-datePublished: '2016-06-06T05:07:20.802Z'
-dateModified: '2016-06-06T05:06:43.428Z'
+datePublished: '2016-07-22T23:26:18.138Z'
+dateModified: '2016-07-22T23:15:40.936Z'
 title: CANE SUGARRRRRR
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-06-06-cane-sugarrrrrr.md
 authors: []
-publisher: null
-starred: true
+publisher: {}
+via: {}
+starred: false
 url: cane-sugarrrrrr/index.html
 _type: Article
 
