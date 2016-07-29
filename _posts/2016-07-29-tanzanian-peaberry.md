@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-29T16:34:36.369Z'
-dateModified: '2016-07-29T16:33:10.139Z'
+datePublished: '2016-07-29T16:45:19.281Z'
+dateModified: '2016-07-29T16:40:15.367Z'
 title: TANZANIAN PEABERRY
 author: []
 via: {}
+sourcePath: _posts/2016-07-29-tanzanian-peaberry.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-07-29-tanzanian-peaberry.md
 url: tanzanian-peaberry/index.html
 _type: Article
 
@@ -32,6 +32,8 @@ Calling me a monkey, see
 Blak soul, blak like a coffee tree
 
 Please don't take my coffee beans
+
+...
 
 Blak don't crack my nigga who you talking to?
 
@@ -58,6 +60,8 @@ Till a blak hater invented it
 Fair trade wasn't free
 
 For money trees they incentive it
+
+...
 
 Under five cents per cup, she pay
 
