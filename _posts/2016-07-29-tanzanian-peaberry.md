@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T04:30:22.025Z'
+datePublished: '2016-08-04T04:33:49.838Z'
 sourcePath: _posts/2016-07-29-tanzanian-peaberry.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-04T04:30:21.262Z'
+dateModified: '2016-08-04T04:33:49.094Z'
 title: TANZANIAN PEABERRY
 publisher: {}
 description: 'Coffee beans, coffee beans'
@@ -78,6 +78,10 @@ Blak will crack a few times out of ten
 But blak will rise on the coastline again
 
 .....
+
+Next verse - let's roll!
+
+Spitting in the dust, my head up in the sun
 
 My mind in another place when I begun
 
