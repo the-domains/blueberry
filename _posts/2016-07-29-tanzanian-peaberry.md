@@ -1,25 +1,23 @@
 ---
+datePublished: '2016-08-04T04:05:54.459Z'
+sourcePath: _posts/2016-07-29-tanzanian-peaberry.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-07-29T16:46:00.103Z'
-dateModified: '2016-07-29T16:45:26.983Z'
-title: TANZANIAN PEABERRY
 author: []
 via: {}
-sourcePath: _posts/2016-07-29-tanzanian-peaberry.md
-authors: []
+dateModified: '2016-08-04T04:05:53.253Z'
+title: TANZANIAN PEABERRY
 publisher: {}
+description: 'Coffee beans, coffee beans'
+inLanguage: null
+inNav: false
 starred: false
 url: tanzanian-peaberry/index.html
 _type: Article
 
 ---
-****
-
 # TANZANIAN PEABERRY
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4578bea9-7dff-4490-8057-943511ae4821.jpg)
 
@@ -79,6 +77,8 @@ Blak will crack a few times out of ten
 
 But blak will rise on the coastline again
 
+.....
+
 Spittin in the dust, my face up in the sun
 
 My mind in another place when I begun
@@ -121,7 +121,7 @@ Ma girl rubs her hands in with the castor
 
 Feeling so sweet, can we rub any faster?
 
-ingredients: peanut butter, banana, avocado 
+ingredients: peanut butter, banana, avocado
 
 you'll never get this from commercials
 
