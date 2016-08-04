@@ -6,12 +6,11 @@ inLanguage: null
 starred: false
 keywords: []
 description: What you sing about
-datePublished: '2016-04-15T05:23:11.284Z'
-dateModified: '2016-03-18T05:15:39.088Z'
-title: "Child of Earth (A President's Rap Song)"
+datePublished: '2016-08-04T04:41:50.538Z'
+dateModified: '2016-04-15T05:23:26.295Z'
+title: Child of Earth (A President's Rap Song)
 author: []
 sourcePath: _posts/2016-03-17-child-of-earth-a-presidents-rap-song.md
-published: true
 authors: []
 publisher:
   name: null
