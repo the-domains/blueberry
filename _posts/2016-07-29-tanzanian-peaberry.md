@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T04:05:54.459Z'
+datePublished: '2016-08-04T04:09:09.124Z'
 sourcePath: _posts/2016-07-29-tanzanian-peaberry.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-04T04:05:53.253Z'
+dateModified: '2016-08-04T04:08:55.331Z'
 title: TANZANIAN PEABERRY
 publisher: {}
 description: 'Coffee beans, coffee beans'
@@ -79,7 +79,7 @@ But blak will rise on the coastline again
 
 .....
 
-Spittin in the dust, my face up in the sun
+Spitting in the dust, my head up in the sun
 
 My mind in another place when I begun
 
