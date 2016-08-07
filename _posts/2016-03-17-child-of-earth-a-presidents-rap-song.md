@@ -3,20 +3,17 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: What you sing about
-datePublished: '2016-08-04T04:41:50.538Z'
-dateModified: '2016-04-15T05:23:26.295Z'
+datePublished: '2016-08-07T23:26:59.306Z'
+dateModified: '2016-08-04T04:41:53.591Z'
 title: Child of Earth (A President's Rap Song)
 author: []
 sourcePath: _posts/2016-03-17-child-of-earth-a-presidents-rap-song.md
+via: {}
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+starred: false
 url: child-of-earth-a-presidents-rap-song/index.html
 _type: Article
 
