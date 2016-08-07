@@ -1,23 +1,21 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-04-15T05:42:00.405Z'
-dateModified: '2016-04-15T05:40:52.483Z'
-title: A song of ice and fire
-author: []
+datePublished: '2016-08-07T23:37:13.372Z'
 sourcePath: _posts/2016-04-15-a-song-of-ice-and-fire.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-07T23:37:11.964Z'
+title: A song of ice and fire
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
+starred: false
 url: a-song-of-ice-and-fire/index.html
 _type: Article
 
@@ -25,7 +23,7 @@ _type: Article
 ## Oceans: my life behind the story
 
 # A song of ice and fire
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27acf7f0-492b-459f-b0ab-362199eb4a4a.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e75563dd9fedbc3e9091b51234c7f67f572cd40.png)
 
 #### The thing ice and fire have in common: they don't discriminate. You can be rich, poor, good or greedy, but a cold winter's day will be a cold winter's day. The wind won't ask for no resume. It will go ahead and bite right through you.
 
@@ -33,11 +31,11 @@ I sort of hated being out there in the cold, trying to sell a book. Knowing darn
 
 I stood outside a red brick wall with my yellow poster taped to it. A poster that said:
 
-**Oceans: This book is a dream. Read it like a dream.  
-eBook - $3  
-+ Audiobook - $5  
-+ Author Commentary - $7**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec5ca2af-622b-4ceb-b096-b682eb388e84.jpg)
+**Oceans: This book is a dream. Read it like a dream.**  
+**eBook - $3**  
+**+ Audiobook - $5**  
+**+ Author Commentary - $7**
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1abf2275df7a71418e580e27ad186962a105e1e.jpg)
 
 I kept thinking how if it wasn't for my debt, I probably wouldn't be battling out in the harsh weather. I thought maybe if I hadn't lost my job so unexpectedly, I would have been more financially prepared with my life. I heard the voices of some of my friends, telling me to get a real job, swirling in my head. Like, hell you think I'm doing?  
 Another passerby walks by me with nothing but a glance. Minimal recognition.
