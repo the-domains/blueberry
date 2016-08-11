@@ -1,20 +1,20 @@
 ---
+datePublished: '2016-08-11T22:48:24.598Z'
+sourcePath: _posts/2016-08-11-stories-and-stories-and-a-bit-of-poetry.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: stories & stories (and a bit of poetry)
-datePublished: '2016-08-11T22:21:38.944Z'
-dateModified: '2016-08-11T22:21:08.525Z'
-title: ''
 author:
   - name: ''
     url: ''
 via: {}
-sourcePath: _posts/2016-08-11-stories-and-stories-and-a-bit-of-poetry.md
-authors: []
+dateModified: '2016-08-11T22:48:23.832Z'
+title: Oceans
 publisher: {}
+description: stories & stories (and a bit of poetry)
+inLanguage: null
+inNav: false
 starred: true
 url: stories-and-stories-and-a-bit-of-poetry/index.html
 _type: Article
@@ -27,3 +27,5 @@ _type: Article
 stories & stories (and a bit of poetry)
 
 Photobook is Coming Soon.
+
+Don't miss out!
