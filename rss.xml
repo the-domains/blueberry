@@ -4,7 +4,7 @@
         <description><![CDATA[under the coconut tree]]></description>
         <link>https://thegrid.ai/blueberry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 22:41:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 22:42:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blueberry/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/blueberry/stories-and-stories-and-a-bit-of-poetry/index.html</link>
             <guid isPermaLink="false">a1106bfe-faa8-4617-b5e7-04c5e044c0eb</guid>
             <pubDate>Thu, 11 Aug 2016 22:21:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Medals]]></title>
+            <description><![CDATA[<article><h1>Medals</h1><p>You look back at your past</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94ce2897-4843-4aea-b37d-10046ad877a5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/blueberry/medals/index.html</link>
+            <guid isPermaLink="false">09bfd860-9fed-4801-8af2-e07a56a3148c</guid>
+            <pubDate>Thu, 11 Aug 2016 22:42:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Love Is]]></title>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/blueberry/a-hungry-rest/index.html</link>
             <guid isPermaLink="false">f3997c2d-f7ac-4d10-b52a-9b13dbd7b554</guid>
             <pubDate>Thu, 11 Aug 2016 22:31:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Medals]]></title>
-            <description><![CDATA[<article><h1>Medals</h1><p>You look back at your past</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94ce2897-4843-4aea-b37d-10046ad877a5.jpg"></article>]]></description>
-            <link>https://thegrid.ai/blueberry/medals/index.html</link>
-            <guid isPermaLink="false">09bfd860-9fed-4801-8af2-e07a56a3148c</guid>
-            <pubDate>Thu, 11 Aug 2016 22:31:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A song of ice and fire]]></title>
