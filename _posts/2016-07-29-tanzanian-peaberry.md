@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-11T22:21:27.426Z'
+datePublished: '2016-08-11T22:57:09.065Z'
 sourcePath: _posts/2016-07-29-tanzanian-peaberry.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-11T22:21:06.416Z'
+dateModified: '2016-08-11T22:57:07.297Z'
 title: TANZANIAN PEABERRY
 publisher: {}
 description: 'Coffee beans, coffee beans'
