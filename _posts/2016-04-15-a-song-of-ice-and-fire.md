@@ -1,33 +1,32 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-08-11T22:28:05.362Z'
-dateModified: '2016-08-11T22:28:01.181Z'
+datePublished: '2016-08-11T22:44:21.993Z'
 sourcePath: _posts/2016-04-15-a-song-of-ice-and-fire.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
 author:
   - name: ''
     url: ''
 via: {}
+dateModified: '2016-08-11T22:44:20.499Z'
 title: A song of ice and fire
-authors: []
 publisher: {}
+description: ''
+inLanguage: null
+inNav: false
 starred: false
 url: a-song-of-ice-and-fire/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a5470df-a4bb-44e3-b75e-3d11722ceccb.jpg)
-
 ## Oceans: my life behind the story
 
 # A song of ice and fire
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e75563dd9fedbc3e9091b51234c7f67f572cd40.png)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f19559a283176c55497d90eac50f0280/croprotate.jpg?cropheight=1943&cropwidth=2896&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0a5470df-a4bb-44e3-b75e-3d11722ceccb.jpg&x=0&y=0)
 
 #### The thing ice and fire have in common: they don't discriminate. You can be rich, poor, good or greedy, but a cold winter's day will be a cold winter's day. The wind won't ask for no resume. It will go ahead and bite right through you.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e75563dd9fedbc3e9091b51234c7f67f572cd40.png)
 
 I sort of hated being out there in the cold, trying to sell a book. Knowing darn well most people don't wanna stay outside in weather like this.
 
