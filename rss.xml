@@ -4,7 +4,7 @@
         <description><![CDATA[under the coconut tree]]></description>
         <link>https://thegrid.ai/blueberry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 22:37:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 22:41:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blueberry/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/blueberry/stories-and-stories-and-a-bit-of-poetry/index.html</link>
             <guid isPermaLink="false">a1106bfe-faa8-4617-b5e7-04c5e044c0eb</guid>
             <pubDate>Thu, 11 Aug 2016 22:21:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Love Is]]></title>
+            <description><![CDATA[<article><h1>Love Is</h1><p>Love is my security</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8dce35dff0818fc63e93c30461c89f332aa78e5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/blueberry/1358e830-7e9f-4a76-a508-a3287b6ffcbc/index.html</link>
+            <guid isPermaLink="false">1358e830-7e9f-4a76-a508-a3287b6ffcbc</guid>
+            <pubDate>Thu, 11 Aug 2016 22:41:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Child of Earth (A President's Rap Song)]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/blueberry/cane-sugarrrrrr/index.html</link>
             <guid isPermaLink="false">e51e5f95-af29-4e88-a89f-652d0e607ea0</guid>
             <pubDate>Fri, 22 Jul 2016 23:26:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbe147c0-9bce-4504-962a-a9ac2887767e.jpg">]]></description>
-            <link>https://thegrid.ai/blueberry/1358e830-7e9f-4a76-a508-a3287b6ffcbc/index.html</link>
-            <guid isPermaLink="false">1358e830-7e9f-4a76-a508-a3287b6ffcbc</guid>
-            <pubDate>Fri, 06 May 2016 16:04:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
