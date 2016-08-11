@@ -1,23 +1,25 @@
 ---
+datePublished: '2016-08-11T22:35:37.035Z'
+sourcePath: _posts/2016-07-22-fear-of-god.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: God I am crushed in this world and in this life
-datePublished: '2016-07-22T23:15:24.677Z'
-dateModified: '2016-07-22T23:14:54.278Z'
-title: Fear of God
 author: []
 via: {}
-authors: []
+dateModified: '2016-08-11T22:35:35.693Z'
+title: Fear of God
 publisher: {}
+description: God I am crushed in this world and in this life
+inLanguage: null
+inNav: false
 starred: false
-sourcePath: _posts/2016-07-22-fear-of-god.md
 url: fear-of-god/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1da1a9cb-c2da-4974-8867-1139a773ec85.jpg)
+
 # Fear of God
 
 _God I am crushed in this world and in this life_
