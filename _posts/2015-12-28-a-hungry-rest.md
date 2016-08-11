@@ -5,13 +5,15 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: i was never born toanswer questionsi am here tohear my footsteps crunch the snowas my toes cringeto the coldlike icy water in my shoes- and that is not a question
-datePublished: '2016-03-18T05:11:50.625Z'
-dateModified: '2016-03-17T15:52:51.506Z'
+description: >-
+  i was never born toanswer questionsi am here tohear my footsteps crunch the
+  snowas my toes cringeto the coldlike icy water in my shoes- and that is not a
+  question
+datePublished: '2016-08-11T22:31:21.385Z'
+dateModified: '2016-03-18T05:11:58.529Z'
 title: a hungry rest
 author: []
 sourcePath: _posts/2015-12-28-a-hungry-rest.md
-published: true
 authors: []
 publisher:
   name: null
