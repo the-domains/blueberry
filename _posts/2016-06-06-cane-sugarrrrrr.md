@@ -1,20 +1,20 @@
 ---
+datePublished: '2016-08-11T22:56:33.471Z'
+sourcePath: _posts/2016-06-06-cane-sugarrrrrr.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: 'My Cane Sugar, as seen above, checking herself out.'
-datePublished: '2016-07-22T23:26:18.138Z'
-dateModified: '2016-07-22T23:15:40.936Z'
-title: CANE SUGARRRRRR
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-06-06-cane-sugarrrrrr.md
-authors: []
-publisher: {}
 via: {}
+dateModified: '2016-08-11T22:56:32.954Z'
+title: CANE SUGARRRRRR
+publisher: {}
+description: You fill me like water from the coconut
+inLanguage: null
+inNav: false
 starred: false
 url: cane-sugarrrrrr/index.html
 _type: Article
@@ -53,7 +53,7 @@ See the sun chase the moon
 
 And talk about our lives, baby
 
-And how you got me 
+And how you got me
 
 High on my days so sweet sweet
 
@@ -79,7 +79,7 @@ But he made you from the sugar
 
 Can't complain, my urge to run my tongue up
 
-the curves and the bones 
+the curves and the bones
 
 and sweet kiss ya
 
