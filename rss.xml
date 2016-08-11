@@ -4,7 +4,7 @@
         <description><![CDATA[under the coconut tree]]></description>
         <link>https://thegrid.ai/blueberry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 22:49:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 22:53:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blueberry/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Oceans]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 11 Aug 2016 22:48:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A song of ice and fire]]></title>
+            <description><![CDATA[<article><h1>A song of ice and fire</h1><h2>Oceans: my life behind the story</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d05dc68dbf53749eeff77409178055c3051ab91.jpg"></article>]]></description>
+            <link>https://thegrid.ai/blueberry/a-song-of-ice-and-fire/index.html</link>
+            <guid isPermaLink="false">d6d75f99-964b-424e-a8f5-3a5c50fb241f</guid>
+            <pubDate>Thu, 11 Aug 2016 22:53:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pancake]]></title>
-            <description><![CDATA[<article><h1>Pancake</h1><p>I see light beams over ocean crests</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a80e49d5d7d95eef8d46e02d2baaf165/croprotate.jpg?cropheight=3194&cropwidth=4789&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb09299c2-a703-467f-aeae-a305450fef1b.jpg&x=0&y=0"></article>]]></description>
+            <description><![CDATA[<article><h1>Pancake</h1><p>I see light beams over ocean crests</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b7b1e2d74f1ef39b361119e0098f9d38d278e38.jpg"></article>]]></description>
             <link>https://thegrid.ai/blueberry/pancake/index.html</link>
             <guid isPermaLink="false">06b1e1a6-11d1-401b-975d-b48adf8a7f48</guid>
             <pubDate>Thu, 11 Aug 2016 22:49:47 GMT</pubDate>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/blueberry/reggae-songs/index.html</link>
             <guid isPermaLink="false">2e1b4b4d-72c3-44da-85cb-57158987cf35</guid>
             <pubDate>Thu, 11 Aug 2016 22:44:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A song of ice and fire]]></title>
-            <description><![CDATA[<article><h1>A song of ice and fire</h1><h2>Oceans: my life behind the story</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d05dc68dbf53749eeff77409178055c3051ab91.jpg"></article>]]></description>
-            <link>https://thegrid.ai/blueberry/a-song-of-ice-and-fire/index.html</link>
-            <guid isPermaLink="false">d6d75f99-964b-424e-a8f5-3a5c50fb241f</guid>
-            <pubDate>Thu, 11 Aug 2016 22:44:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Medals]]></title>
