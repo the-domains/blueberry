@@ -5,19 +5,17 @@ inNav: false
 inLanguage: null
 keywords: []
 description: stories & stories (and a bit of poetry)
-datePublished: '2016-08-11T22:18:51.354Z'
-dateModified: '2016-08-11T22:18:36.197Z'
+datePublished: '2016-08-11T22:21:38.944Z'
+dateModified: '2016-08-11T22:21:08.525Z'
 title: ''
 author:
   - name: ''
     url: ''
 via: {}
-authors: []
-publisher:
-  name: ''
-  url: ''
-starred: false
 sourcePath: _posts/2016-08-11-stories-and-stories-and-a-bit-of-poetry.md
+authors: []
+publisher: {}
+starred: true
 url: stories-and-stories-and-a-bit-of-poetry/index.html
 _type: Article
 
