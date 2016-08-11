@@ -4,7 +4,7 @@
         <description><![CDATA[under the coconut tree]]></description>
         <link>https://thegrid.ai/blueberry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 22:31:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 22:31:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blueberry/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/blueberry/stories-and-stories-and-a-bit-of-poetry/index.html</link>
             <guid isPermaLink="false">a1106bfe-faa8-4617-b5e7-04c5e044c0eb</guid>
             <pubDate>Thu, 11 Aug 2016 22:21:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[a hungry rest]]></title>
-            <description><![CDATA[<article><h1>a hungry rest</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90212db13013271e1277fc0dedf275ba8babfe44.gif"></article>]]></description>
-            <link>https://thegrid.ai/blueberry/a-hungry-rest/index.html</link>
-            <guid isPermaLink="false">f3997c2d-f7ac-4d10-b52a-9b13dbd7b554</guid>
-            <pubDate>Thu, 11 Aug 2016 22:31:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Medals]]></title>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/blueberry/1358e830-7e9f-4a76-a508-a3287b6ffcbc/index.html</link>
             <guid isPermaLink="false">1358e830-7e9f-4a76-a508-a3287b6ffcbc</guid>
             <pubDate>Fri, 06 May 2016 16:04:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colette Robbins]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F160397656&url=https%3A%2F%2Fvimeo.com%2F160397656&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F562379074_1280.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen"></iframe>]]></description>
+            <link>https://thegrid.ai/blueberry/colette-robbins/index.html</link>
+            <guid isPermaLink="false">c7859886-cdef-46f4-ae60-5b5b80ff48fe</guid>
+            <pubDate>Fri, 15 Apr 2016 05:44:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
