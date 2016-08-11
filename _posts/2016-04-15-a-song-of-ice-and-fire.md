@@ -1,25 +1,27 @@
 ---
-datePublished: '2016-08-07T23:37:13.372Z'
-sourcePath: _posts/2016-04-15-a-song-of-ice-and-fire.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: false
+inLanguage: null
 keywords: []
+description: ''
+datePublished: '2016-08-11T22:28:05.362Z'
+dateModified: '2016-08-11T22:28:01.181Z'
+sourcePath: _posts/2016-04-15-a-song-of-ice-and-fire.md
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-07T23:37:11.964Z'
 title: A song of ice and fire
+authors: []
 publisher: {}
-description: ''
-inLanguage: null
-inNav: false
 starred: false
 url: a-song-of-ice-and-fire/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a5470df-a4bb-44e3-b75e-3d11722ceccb.jpg)
+
 ## Oceans: my life behind the story
 
 # A song of ice and fire
