@@ -1,25 +1,21 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: |-
-  …wanna love you
-  with reggae songs…
-datePublished: '2016-04-15T05:23:43.893Z'
-dateModified: '2016-04-15T05:15:15.633Z'
-title: reggae songs
-author: []
+datePublished: '2016-08-11T22:44:52.560Z'
 sourcePath: _posts/2016-03-17-reggae-songs.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-11T22:44:51.621Z'
+title: reggae songs
+publisher: {}
+description: …wanna love you with reggae songs…
+inLanguage: null
+inNav: false
+starred: false
 url: reggae-songs/index.html
 _type: Article
 
@@ -27,40 +23,29 @@ _type: Article
 # reggae songs
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9befa30d4fd9f4cd186a1678bc31712a6b5d594c.jpg)
 
-...wanna love you
-with reggae songs...
+...wanna love you with reggae songs...
 
-...wanna love
-you under a coconut tree
+...wanna love you under a coconut tree
 
-with beach
-sands falling off your back
+with beach sands falling off your back
 
-while we
-hold cups of watermelon juice...
+while we hold cups of watermelon juice...
 
-...wanna love
-you with salsa steps...
+...wanna love you with salsa steps...
 
-...wanna love
-you with maracas and drums...
+...wanna love you with maracas and drums...
 
-...wanna love
-you with sushi rolls
+...wanna love you with sushi rolls
 
-and long
-walks in the night
+and long walks in the night
 
-with my
-tongue in your mouth...
+with my tongue in your mouth...
 
-...i wanna
-love you with my hand lost in your sea-salt sprayed hair
+...i wanna love you with my hand lost in your sea-salt sprayed hair
 
-as you
-caress my avocado-washed dreads...
+as you caress my avocado-washed dreads...
 
-> OK, so there's this girl ... and reggae song is about this girl who I was thinking about while listening to reggae songs. And she makes me want to have watermelon juice with her. 
+> OK, so there's this girl ... and reggae song is about this girl who I was thinking about while listening to reggae songs. And she makes me want to have watermelon juice with her.
 
 _I like it when she touches my dreadlocks._
 
